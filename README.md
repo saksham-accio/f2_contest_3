@@ -1,2 +1,2 @@
 # f2_contest_3
-Json should just contain imageSrc, burger name, price
+Return the JSON to fetch the deatils of the menu like burger name, price.
